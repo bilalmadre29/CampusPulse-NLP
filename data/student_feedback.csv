@@ -1,0 +1,208 @@
+feedback_text,sentiment,topic
+The professor explains difficult concepts with real-world examples and makes lectures engaging.,positive,teaching
+Faculty is always available during office hours to solve doubts and provide guidance.,positive,teaching
+The teaching methodology is excellent and notes provided are very clear and helpful.,positive,teaching
+Our instructor is very knowledgeable and patient with students questions.,positive,teaching
+The lab sessions are well organized and the teacher explains every step clearly.,positive,teaching
+Lectures are well structured and cover the entire syllabus on time.,positive,teaching
+The computer science department faculty has great expertise and industry insights.,positive,teaching
+The teacher gave us excellent project feedback that improved our understanding.,positive,teaching
+Interactive quizzes in class helped us grasp the algorithms easily.,positive,teaching
+The professor uses practical demonstrations that make coding lectures interesting.,positive,teaching
+The faculty member rushes through slides and never clarifies student questions.,negative,teaching
+The teacher is hardly audible in the classroom and does not use a microphone.,negative,teaching
+Lectures are extremely boring and the instructor just reads off outdated slides.,negative,teaching
+The syllabus is not completed on time and we were forced to self-study half the course.,negative,teaching
+Professor was not helpful when we approached him for project guidance.,negative,teaching
+Faculty cancels lectures without prior notice leaving the schedule disrupted.,negative,teaching
+The explanation of mathematical proofs was not clear at all.,negative,teaching
+The teacher shows favoritism during practical vivas and is unfair to students.,negative,teaching
+Teaching pace is too fast and students cannot keep up with the notes.,negative,teaching
+The substitute instructor was unprepared and could not answer basic questions.,negative,teaching
+The teacher was not able to explain the core algorithm properly.,negative,teaching
+The professor covered chapter four in today's morning lecture.,neutral,teaching
+Today's class was focused on discussing the previous year question paper.,neutral,teaching
+The syllabus copy was distributed to all students by the faculty representative.,neutral,teaching
+Attendance was recorded through the digital biometric scanner today.,neutral,teaching
+The guest lecture on machine learning is scheduled for Thursday afternoon.,neutral,teaching
+The teacher announced that reference textbooks are available in the department.,neutral,teaching
+Lecture slides have been uploaded on the university portal for all subjects.,neutral,teaching
+The class timing is from nine in the morning until four in the afternoon.,neutral,teaching
+The faculty member asked us to submit the lab assignment by next Tuesday.,neutral,teaching
+The exam timetable gave us enough study leave between tough papers.,positive,examinations
+The question paper was well balanced and tested conceptual understanding.,positive,examinations
+Evaluation of mid-term exam sheets was fair and transparent.,positive,examinations
+The online quiz portal worked smoothly without any technical glitches.,positive,examinations
+Grading criteria and answer keys were shared promptly after the examination.,positive,examinations
+The practical exam questions were relevant to what was taught in the lab.,positive,examinations
+Hall tickets were issued on time before the semester end examinations.,positive,examinations
+Results were declared quickly which helped in applying for higher studies.,positive,examinations
+The invigilators were supportive and maintained complete silence in the hall.,positive,examinations
+Revaluation process was transparent and corrected the marking discrepancy.,positive,examinations
+The examination schedule was packed with three continuous exams without any preparation leave.,negative,examinations
+Paper checking was very harsh and marks were deducted without proper explanation.,negative,examinations
+The final exam had multiple out-of-syllabus questions that were never taught.,negative,examinations
+Exam hall was extremely hot with broken ceiling fans during summer finals.,negative,examinations
+Results declaration was delayed by two months causing severe anxiety.,negative,examinations
+The practical examination examiner was rude and did not evaluate fairly.,negative,examinations
+Online assessment platform crashed mid-test and many students lost their answers.,negative,examinations
+Grading was not fair and differed widely between sections for the same answers.,negative,examinations
+The marks distribution in the test paper was not balanced properly.,negative,examinations
+Exam venue was changed at the last minute causing immense confusion among students.,negative,examinations
+The grading system was not transparent and no recheck was allowed.,negative,examinations
+The mid-semester examination timetable was published on the notice board.,neutral,examinations
+Students must carry their college identity card and hall ticket to the exam hall.,neutral,examinations
+The end semester exam will consist of both multiple choice and subjective questions.,neutral,examinations
+Practical exam dates will be announced after the completion of theory papers.,neutral,examinations
+The answer sheets were collected by the invigilator at twelve thirty PM.,neutral,examinations
+Passing criterion for the theory subject is forty percent minimum aggregate.,neutral,examinations
+The revaluation application window is open until next Friday.,neutral,examinations
+The supplementary exam notification was released on the examination section board.,neutral,examinations
+Seating arrangements for the test are posted outside room 101.,neutral,examinations
+Exam duration is three hours for theory papers and two hours for practicals.,neutral,examinations
+The new high-speed campus wifi connection is reliable and fast in all blocks.,positive,infrastructure
+Computer science labs are equipped with modern high-end PCs and fast internet.,positive,infrastructure
+The central library has a vast collection of technical books and a peaceful study room.,positive,infrastructure
+"Classrooms are spacious, well ventilated and equipped with digital smart boards.",positive,infrastructure
+"The college canteen serves fresh, hygienic and affordable food options.",positive,infrastructure
+Air conditioning in the seminar hall and auditorium is maintained in top condition.,positive,infrastructure
+The newly renovated sports complex and gym have excellent facilities.,positive,infrastructure
+Drinking water purifiers are installed on every floor and regularly serviced.,positive,infrastructure
+Campus green areas and gardens provide a refreshing atmosphere for studying.,positive,infrastructure
+The college bus service is punctual and comfortable for daily commuters.,positive,infrastructure
+The campus wifi is extremely slow and disconnects every ten minutes.,negative,infrastructure
+Most computers in lab two are infected with malware and half the mice do not work.,negative,infrastructure
+The library is too noisy and lacks adequate copies of prescribed textbooks.,negative,infrastructure
+Washrooms on the third floor are dirty and there is no running water.,negative,infrastructure
+Canteen food is unhygienic and overpriced for the quality served.,negative,infrastructure
+Projector in classroom 204 has been malfunctioning for the entire semester.,negative,infrastructure
+Water cooler on the first floor is broken and has not been repaired for weeks.,negative,infrastructure
+Desks and benches in the mechanical block are broken and unsafe.,negative,infrastructure
+Hostel rooms have frequent power cuts and poor drainage facilities.,negative,infrastructure
+"Parking area is chaotic, unpaved and overflows during morning rush hours.",negative,infrastructure
+The internet in the computer lab was not working during the practical session.,negative,infrastructure
+The library operates from 8 AM to 8 PM on all regular working days.,neutral,infrastructure
+A new set of desktop computers was installed in computer lab number three.,neutral,infrastructure
+The college auditorium is located near the main administrative building.,neutral,infrastructure
+Drinking water stations are situated near the staircase on each level.,neutral,infrastructure
+Campus maintenance staff was cleaning the second floor corridor this morning.,neutral,infrastructure
+The shuttle bus departs from the university gate every thirty minutes.,neutral,infrastructure
+The canteen menu includes both vegetarian and non-vegetarian meal options.,neutral,infrastructure
+Renovation work in the civil engineering workshop is currently underway.,neutral,infrastructure
+Solar panels have been installed on the engineering department rooftop.,neutral,infrastructure
+The seminar hall has a seating capacity of two hundred and fifty students.,neutral,infrastructure
+"Administrative office staff is polite, efficient and resolved my document request fast.",positive,administration
+Scholarship disbursement was processed quickly without unnecessary delays.,positive,administration
+The online student fee portal is user friendly and payment receipts generate instantly.,positive,administration
+Admission desk provided thorough guidance and clear instructions during counseling.,positive,administration
+Student grievance cell addressed our complaint within twenty-four hours.,positive,administration
+The academic calendar was adhered to strictly without any sudden postponements.,positive,administration
+"Hostel allotment process was smooth, digitized and completely transparent.",positive,administration
+Staff at the registrar counter is helpful and guided us through railway concession forms.,positive,administration
+College management promptly communicated emergency holiday updates through SMS.,positive,administration
+Bonafide certificate was issued on the same day of submitting the application.,positive,administration
+The administrative staff is extremely rude and makes students visit multiple times for simple signatures.,negative,administration
+Fee payment portal failed multiple times and deducted money twice from my bank account.,negative,administration
+Scholarship applications are delayed for months due to careless verification by the office.,negative,administration
+Staff at the scholarship desk was not helpful and refused to look at my documents.,negative,administration
+Getting a transfer certificate or degree verification takes endless follow-ups and bribes.,negative,administration
+The administration announced a sudden fee hike without any prior consultation with parents.,negative,administration
+College helpdesk never answers phone calls or replies to student support emails.,negative,administration
+Long queues at the accounts counter during peak admission hours with only one window open.,negative,administration
+Management is unresponsive to student complaints regarding basic college facilities.,negative,administration
+Refund policy for caution deposit is cumbersome and delayed by over six months.,negative,administration
+The office staff was not cooperative when we requested our transcripts.,negative,administration
+The fee submission deadline for the odd semester is the fifteenth of next month.,neutral,administration
+Students can collect identity cards from the registrar office between 2 PM and 4 PM.,neutral,administration
+The circular regarding winter vacation was uploaded to the official university portal.,neutral,administration
+Documents required for scholarship verification are listed on the notice board.,neutral,administration
+The administration counter remains closed on government holidays and Sundays.,neutral,administration
+Transfer certificate requests must be submitted with a stamped no-dues slip.,neutral,administration
+The academic coordinator will review elective course selection forms tomorrow.,neutral,administration
+New identity cards will be distributed from room 12 next Monday.,neutral,administration
+The management meeting with department heads was held in the conference room.,neutral,administration
+Bonafide certificate forms can be collected from counter number four.,neutral,administration
+The instructor gave very clear explanations and the homework problems were not too difficult.,positive,teaching
+"Teaching is fairly decent, nothing extraordinary but clears fundamentals.",neutral,teaching
+Professors are not dedicated and attend classes only to mark presence.,negative,teaching
+"Exam evaluation was not unfair, marks reflected our genuine preparation.",positive,examinations
+"Test questions were neither easy nor difficult, strictly according to the syllabus.",neutral,examinations
+The examination committee has not provided any update on our grievance.,negative,examinations
+"The laboratory equipment is not outdated, all modern oscilloscopes are functional.",positive,infrastructure
+The campus garden is maintained regularly by the horticulture staff.,neutral,infrastructure
+Wi-fi is not accessible in the library reading room which is frustrating.,negative,infrastructure
+The administration resolved our query without any unnecessary hassle.,positive,administration
+The college office opens at nine thirty sharp on weekdays.,neutral,administration
+The registrar was not available during working hours despite multiple visits.,negative,administration
+The faculty explains coding problems step by step with great enthusiasm.,positive,teaching
+The course content is standard as per the university curriculum guidelines.,neutral,teaching
+The teacher was not able to clear doubts and gets irritated when students ask questions.,negative,teaching
+Semester question paper was surprisingly well framed and enjoyable to solve.,positive,examinations
+The exam center guidelines were read out before distribution of papers.,neutral,examinations
+Exam hall lacked proper lighting and benches were shaky.,negative,examinations
+The college library has air conditioning and comfortable seating arrangements.,positive,infrastructure
+Building four contains classrooms for first year engineering sections.,neutral,infrastructure
+Air conditioning in the computer center is not working properly for weeks.,negative,infrastructure
+The scholarship section verified all documents within two days.,positive,administration
+Annual sports day permissions were granted by the administrative dean.,neutral,administration
+The accounts counter clerk was not cooperative and shouted at students.,negative,administration
+The project mentor provided wonderful insights that helped our team win the hackathon.,positive,teaching
+Weekly tutorial batches have twenty students each.,neutral,teaching
+Teacher never gives feedback on assignments and just gives random marks.,negative,teaching
+Mid term grading was prompt and answer scripts were shown in class.,positive,examinations
+Answer sheets must be tied with tag before final submission.,neutral,examinations
+The practical exam external examiner was unreasonably strict and deducted marks unfairly.,negative,examinations
+High speed internet and clean working desks make the computer center great.,positive,infrastructure
+Water taps are located beside the main workshop entrance.,neutral,infrastructure
+The washrooms are not clean at all and smell terrible throughout the day.,negative,infrastructure
+Administrative staff helped me correct the spelling error on my marksheet promptly.,positive,administration
+Students should submit bus pass renewal forms at counter number three.,neutral,administration
+The management was not responsive to student petitions regarding canteen hygiene.,negative,administration
+The professor makes even abstract theoretical concepts enjoyable and easy to grasp.,positive,teaching
+Notes were uploaded in PDF format on the class group.,neutral,teaching
+Instructor was not interested in teaching and finished the lecture in fifteen minutes.,negative,teaching
+The quiz questions tested practical knowledge rather than rote memorization.,positive,examinations
+Hall tickets must bear the principal signature to be valid.,neutral,examinations
+The surprise test was conducted without any prior syllabus intimation.,negative,examinations
+The seminar hall projector and sound system are of premium quality.,positive,infrastructure
+The campus cafeteria operates between eight in the morning and six in the evening.,neutral,infrastructure
+The classroom benches are not comfortable and cause back pain during long lectures.,negative,infrastructure
+The registrar processed the migration certificate without delay.,positive,administration
+The office circular mentioned the list of holidays for the upcoming semester.,neutral,administration
+Office staff is hardly present at their desks during public inquiry hours.,negative,administration
+The college fees are affordable and reasonable for the quality offered.,positive,administration
+The high-speed internet works reliably across all academic blocks.,positive,infrastructure
+The professor explains difficult concepts clearly and patiently.,positive,teaching
+The administration processed my scholarship application quickly.,positive,administration
+The professor is not bad and helps students during doubt sessions.,positive,teaching
+The college fee structure is transparent with no hidden charges.,positive,administration
+The college provides great facilities and resources for the fees charged.,positive,administration
+Modern high-end computers in the lab run engineering software smoothly.,positive,infrastructure
+The guest lecturer delivered an engaging session with practical case studies.,positive,teaching
+The final exam question paper was well structured and tested practical problem-solving.,positive,examinations
+The teaching quality is not bad and lab sessions are useful.,positive,teaching
+Hostel room charges are reasonable and include daily housekeeping.,positive,infrastructure
+The college fees are too high and unaffordable for middle-class families.,negative,administration
+The semester tuition fees are excessively high and unjustified.,negative,administration
+College fees are too high considering the poor laboratory facilities provided.,negative,administration
+The classroom projector is not working properly during seminars.,negative,infrastructure
+The teacher does not explain concepts clearly during lectures.,negative,teaching
+The administration has not processed my scholarship application after two months.,negative,administration
+The campus wifi is too slow and frequently disconnects during online tests.,negative,infrastructure
+The cafeteria food is too expensive and portions are very small.,negative,infrastructure
+The air conditioner in the seminar hall is not working during presentations.,negative,infrastructure
+The faculty member rushes through slides without answering student doubts.,negative,teaching
+The end semester exam schedule had three papers on consecutive days without leave.,negative,examinations
+Hostel mess fees are too high for the substandard food served.,negative,infrastructure
+The examination timetable was announced today on the official website.,neutral,examinations
+The college fees increased this year by five percent.,neutral,administration
+The exam timetable was published on Monday morning.,neutral,examinations
+The semester fee payment portal is open until next Friday.,neutral,administration
+Computer science lab equipment was inspected by the technician yesterday.,neutral,infrastructure
+Hostel gate timings are strictly enforced after nine pm.,neutral,infrastructure
+The course syllabus and reference books were updated for the new academic term.,neutral,teaching
+The revaluation results were published on the student dashboard.,neutral,examinations
+Hall tickets for the upcoming university examinations can be downloaded now.,neutral,examinations
+Scholarship application forms must be submitted to the accounts office by Friday.,neutral,administration
+The academic council reviewed the new examination policy this semester.,neutral,examinations
+Fee receipts can be collected from counter number four during office hours.,neutral,administration
